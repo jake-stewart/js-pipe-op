@@ -1,0 +1,13 @@
+{
+  "name": "js-pipe-op",
+  "version": "1.0.0",
+  "description": "Pipe operator hack",
+  "main": "index.js",
+  "author": "Jake Stewart",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jake-stewart/js-pipe-op"
+  },
+  "homepage": "https://github.com/jake-stewart/js-pipe-op",
+  "license": "MIT"
+}
