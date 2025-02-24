@@ -1,6 +1,6 @@
 {
   "name": "js-pipe-op",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Pipe operator hack",
   "main": "index.js",
   "author": "Jake Stewart",
