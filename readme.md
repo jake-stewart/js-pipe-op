@@ -10,11 +10,12 @@ TypeScript definitions are included.
 ```js
 import "js-pipe-op";
 
-const foo = "foo:1,bar:2"
+const apples = "apples:10,bananas:20"
     .split(",")
     .map(s => s.split(":"))
     .$(Object.fromEntries)
-    .$(obj => obj.foo);
+    .$($ => $.apples)
+    .$(parseInt);
 ```
 
 ### Install
